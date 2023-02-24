@@ -1,0 +1,35 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: tos-in
+    url: blog
+
+  - title: website
+    url: https://www.tos-in.it
+
+project_entries:
+  - title: Edoardo Tosin
+    url: https://edoardo.tos-in.it
+    desc: Personal Portfolio
+
+  - title: work in progress
+    url: overview-post
+    desc: work in progress
+
+  - title: work in progress
+    url: overview-post
+    desc: work in progress
+
+footer_entries:
+  - title: homepage
+    url: https://www.tos-in.it
+
+  - title: twitter
+    url: https://twitter.com/edoardotosin
+
+  - title: github
+    url: https://github.com/edoardotosin
+
+  - title: feed
+    url: feed.xml
