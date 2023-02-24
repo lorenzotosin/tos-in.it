@@ -1,1 +1,1 @@
-# landing_page.edoardotosin.github.io
+# landing.edoardotosin.github.io
