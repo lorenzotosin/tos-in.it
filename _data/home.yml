@@ -27,6 +27,3 @@ footer_entries:
 
   - title: github
     url: https://github.com/edoardotosin
-
-  - title: feed
-    url: feed.xml
