@@ -3,6 +3,4 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+Welcome to the domain https://tos-in.io

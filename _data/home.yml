@@ -2,9 +2,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: tos-in
-    url: blog
-
   - title: website
     url: https://www.tos-in.it
 
@@ -14,11 +11,11 @@ project_entries:
     desc: Personal Portfolio
 
   - title: work in progress
-    url: overview-post
+    url: https://www.tos-in.it
     desc: work in progress
 
   - title: work in progress
-    url: overview-post
+    url: https://www.tos-in.it
     desc: work in progress
 
 footer_entries:
