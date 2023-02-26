@@ -41,6 +41,13 @@ soopr:
 
 highlighter: rouge
 
+defaults:
+  -
+    scope:
+      path:            "blog"
+    values:
+      sitemap:         false
+
 sass:
   style: :compressed
 
@@ -52,3 +59,6 @@ plugins:
 exclude:
   - README.md
   - LICENSE
+  - bin
+  - tools
+  - moonwalk.gemspec
