@@ -48,6 +48,16 @@ defaults:
       path:            "blog"
     values:
       sitemap:         false
+  -
+    scope:
+      path:            "about"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "security"
+    values:
+      sitemap:         false
 
 sass:
   style: :compressed
