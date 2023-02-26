@@ -1,7 +1,9 @@
 title: tos-in.it
 author: Edoardo Tosin
 url: https://tos-in.it # root address of the site
-description: > # 
+description: > # description of the site (multiple lines allowed)
+  Portfolio and blog collection
+
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
