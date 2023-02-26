@@ -69,7 +69,8 @@ html {
     --headings: #1e293b;
     --text: #374151;
     --text-secondary: #6b7280;
-    --links: #6366f1;
+    --links: #000;
+    --links-hover: #6366f1;
     --highlight: #FFECB2; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -77,8 +78,9 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #91A7FF;
+      --headings: #FFF;
+      --links: #FFF;
+      --links-hover: #91A7FF;
       --highlight: #41C7C7;
       --bg: #262626;
       --bg-secondary: #323945;
@@ -114,6 +116,18 @@ blockquote {
 }
 a {
   color: var(--links);
+  &:hover {
+    color: var(--links-hover);
+    .header {
+      color: var(--links-hover);
+    }
+    .body {
+      color: var(--links-hover);
+    }
+    a.parent {
+      border: 1px var(--links-hover) solid;
+    }
+  }
 }
 *:target { background-color: var(--bg-secondary); }
 
@@ -139,7 +153,7 @@ html.transition *:after {
 }
 
 .theme-toggle:hover {
-  color: var(--links);
+  color: var(--links-hover);
   outline: none;
 }
 .theme-toggle:focus {
