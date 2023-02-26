@@ -19,8 +19,9 @@ theme_config:
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
-  show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_navbar: false # show horizontal navbar
+  show_footer: false # show footer links in home page,add in _data/home.yml
+  show_full_footer: false # show entire footer line
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
