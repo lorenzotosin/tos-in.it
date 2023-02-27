@@ -8,11 +8,11 @@ navbar_entries:
 project_entries:
   - title: Edoardo Tosin
     url: https://edoardo.tos-in.it
-    desc: Tech-related blog and personal portfolio
+    desc: Tech blog and Portfolio
 
-  - title: work in progress
-    url: https://tos-in.it
-    desc: work in progress
+  - title: Lorenzo Tosin
+    url: https://lorenzo.tos-in.it
+    desc: This website is created and designed by LT
 
   - title: work in progress
     url: https://tos-in.it
