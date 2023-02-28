@@ -4,7 +4,7 @@ title: Security
 author: edoardotosin
 ---
 
-<meta http-equiv="Refresh" content="0; url=https://edoardo.tos-in.it/contact-me" />
+<meta http-equiv="Refresh" content="0; url=https://edoardo.tos-in.it/security" />
 
 <br>
 
