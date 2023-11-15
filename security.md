@@ -4,8 +4,8 @@ title: Security
 author: edoardotosin
 ---
 
-<meta http-equiv="Refresh" content="0; url=https://edoardo.tos-in.it/security" />
+<meta http-equiv="Refresh" content="0; url=https://edoardotosin.com/security" />
 
 <br>
 
-**[Contact Me](https://edoardo.tos-in.it/contact-me) :** All contact methods
+**[Contact Me](https://edoardotosin.com/contact-me) :** All contact methods
