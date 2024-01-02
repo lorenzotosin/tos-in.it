@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Disallow: /assets/
 Disallow: /css/
-Sitemap: https://edoardo.tos-in.it/sitemap.xml
+Sitemap: https://tos-in.it/sitemap.xml
