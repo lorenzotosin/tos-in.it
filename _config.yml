@@ -76,3 +76,5 @@ exclude:
   - tools
   - moonwalk.gemspec
   - _screenshots
+  - .gitattributes
+  - .gitignore
