@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /
 Disallow: /assets/
-Disallow: /css/
 Sitemap: https://tos-in.it/sitemap.xml
