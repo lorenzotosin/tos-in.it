@@ -57,7 +57,7 @@ defaults:
       sitemap:         false
   -
     scope:
-      path:            "security"
+      path:            "security-policy"
     values:
       sitemap:         false
 
